@@ -1,0 +1,2 @@
+# phonetest
+a phonegap test
