@@ -1,2 +1,0 @@
-# phonetest
-a phonegap test
